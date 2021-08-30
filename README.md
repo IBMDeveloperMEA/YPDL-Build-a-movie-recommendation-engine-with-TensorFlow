@@ -9,7 +9,7 @@ Slides: -
 
 Workshop Replay:  https://www.crowdcast.io/e/ypdl-4
 
-Survey - https://ibm.biz/YPDL-Survey
+Survey: https://ibm.biz/YPDL-Survey
 
 ## About the workshop
 
@@ -269,4 +269,4 @@ Slides: -
 
 Workshop Replay:  https://www.crowdcast.io/e/ypdl-4
 
-Survey - https://ibm.biz/YPDL-Survey
+Survey: https://ibm.biz/YPDL-Survey
