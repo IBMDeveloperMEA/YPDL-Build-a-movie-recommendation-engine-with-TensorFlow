@@ -3,7 +3,7 @@
 ## Workshop Resources
 Login/Sign Up for IBM Cloud: https://ibm.biz/YourPathToDeepLearning
 
-Hands-On Guide: -
+Hands-On Guide: https://github.com/IBMDeveloperMEA/YPDL-Build-a-movie-recommendation-engine-with-TensorFlow
 
 Slides: https://ibmdevelopermea.github.io/YPDL-Build-a-movie-recommendation-engine-with-TensorFlow/
 
@@ -263,9 +263,9 @@ In this tutorial, you looked at the basics and implementation of Restricted Bolt
 ## Workshop Resources
 Login/Sign Up for IBM Cloud: https://ibm.biz/YourPathToDeepLearning
 
-Hands-On Guide: -
+Hands-On Guide: https://github.com/IBMDeveloperMEA/YPDL-Build-a-movie-recommendation-engine-with-TensorFlow
 
-Slides: -
+Slides: https://ibmdevelopermea.github.io/YPDL-Build-a-movie-recommendation-engine-with-TensorFlow/
 
 Workshop Replay:  https://www.crowdcast.io/e/ypdl-4
 
