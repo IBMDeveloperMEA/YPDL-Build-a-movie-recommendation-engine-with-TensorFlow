@@ -5,7 +5,7 @@ Login/Sign Up for IBM Cloud: https://ibm.biz/YourPathToDeepLearning
 
 Hands-On Guide: -
 
-Slides: -
+Slides: https://ibmdevelopermea.github.io/YPDL-Build-a-movie-recommendation-engine-with-TensorFlow/
 
 Workshop Replay:  https://www.crowdcast.io/e/ypdl-4
 
