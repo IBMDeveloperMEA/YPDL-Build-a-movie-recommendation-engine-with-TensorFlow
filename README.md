@@ -90,7 +90,7 @@ Now we will implement a movie recommendation system based on Restricted Boltzman
 
 1. Sign up or log in.
 
-    * Create an [IBM Cloud Account](http://ibm.biz/RBM_TensorFlow) or login at [here](http://ibm.biz/RBM_TensorFlow)
+    * Create an [IBM Cloud Account](https://ibm.biz/YourPathToDeepLearning) or login at [here](https://ibm.biz/YourPathToDeepLearning)
 
 2. Create an instance of Watson Studio
     
