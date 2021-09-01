@@ -111,3 +111,11 @@ jupyter:
 +++ {"slideshow": {"slide_type": "slide"}}
 
 ![center](https://github.com/IBMDeveloperMEA/YPDL-Build-a-movie-recommendation-engine-with-TensorFlow/blob/main/images/slide_images/Slide25.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/IBMDeveloperMEA/YPDL-Build-a-movie-recommendation-engine-with-TensorFlow/blob/main/images/slide_images/Slide26.png?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+![center](https://github.com/IBMDeveloperMEA/YPDL-Build-a-movie-recommendation-engine-with-TensorFlow/blob/main/images/slide_images/Slide27.png?raw=true)
