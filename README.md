@@ -26,7 +26,7 @@ In this tutorial, we are going to build a Restricted Boltzmann Machine using Ten
 
 The following prerequisites are required to follow the tutorial:
 
-- An [IBM Cloud Account](hhttps://ibm.biz/YourPathToDeepLearning)
+- An [IBM Cloud Account](https://ibm.biz/YourPathToDeepLearning)
 - [Watson Studio](https://www.ibm.com/products/cloud-pak-for-data?_ga=2.267180366.1774892577.1604212572-1823395377.1603704903)
 
 ### Estimated time
