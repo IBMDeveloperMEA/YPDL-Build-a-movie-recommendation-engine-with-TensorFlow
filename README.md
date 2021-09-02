@@ -270,3 +270,16 @@ Slides: https://ibmdevelopermea.github.io/YPDL-Build-a-movie-recommendation-engi
 Workshop Replay:  https://www.crowdcast.io/e/ypdl-4
 
 Survey: https://ibm.biz/YPDL-Survey
+
+## Check out the event on other streaming platforms
+- YouTube - https://www.youtube.com/watch?v=nN4qJzKAyRE
+
+- Twitch - https://www.twitch.tv/videos/1135933127
+
+- Periscope - https://www.pscp.tv/w/1jMKgpkjeOYGL
+
+- LinkedIn - https://www.linkedin.com/events/yourpathtodeeplearning6828696278394802176/
+
+- Twitter - https://twitter.com/mridulrb/status/1433067733323710464?s=20
+
+- Facebook - https://www.facebook.com/100003349938697/videos/406645364217358/
